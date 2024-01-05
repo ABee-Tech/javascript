@@ -32,7 +32,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ABee-Tech/javascript](https://github.com/ABee-Tech/javascript)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|20<br/>Tools used|12/22/23 <br/>Report generated|
+|21<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -121,9 +121,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (12)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (13)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (12)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (13)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -139,6 +139,7 @@ Full tech stack [here](/techstack.md)
 |[in-publish](https://www.npmjs.com/in-publish)|v2.0.1|11/09/21|Jordan Harband |ISC|N/A|
 |[markdownlint-cli](https://www.npmjs.com/markdownlint-cli)|v0.23.2|11/06/20|Jordan Harband |MIT|N/A|
 |[safe-publish-latest](https://www.npmjs.com/safe-publish-latest)|v2.0.0|11/09/21|Jordan Harband |MIT|N/A|
+|[tape](https://www.npmjs.com/tape)|v5.3.2|11/22/21|Jordan Harband |MIT|N/A|
 
 <br/>
 <div align='center'>
